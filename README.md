@@ -1,5 +1,6 @@
 <div align="center">
-<img width="867" height="553" alt="specdrift" src="https://github.com/user-attachments/assets/2c423bbb-a14f-4c74-8963-864c44594235" />
+<img width="867" height="553" alt="specdrift(1)" src="https://github.com/user-attachments/assets/d6b00bd6-1e06-46bd-b416-7954a24276f4" />
+
 
 <h1>spec-drift</h1>
 
