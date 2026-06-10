@@ -2,8 +2,6 @@
 <img width="867" height="553" alt="specdrift(1)" src="https://github.com/user-attachments/assets/d6b00bd6-1e06-46bd-b416-7954a24276f4" />
 
 
-<h1>spec-drift</h1>
-
 <p><strong>Your <code>AGENTS.md</code> is a contract. spec-drift tells you when your code stops honoring it.</strong></p>
 
 <p><em>The drift detector for the agentic era. Catch the moment your rules and your code stop agreeing, before your AI agents act on a lie.</em></p>
