@@ -1,4 +1,5 @@
 <div align="center">
+<img width="867" height="553" alt="specdrift" src="https://github.com/user-attachments/assets/2c423bbb-a14f-4c74-8963-864c44594235" />
 
 <h1>spec-drift</h1>
 
