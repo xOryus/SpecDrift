@@ -1,0 +1,40 @@
+{
+  "name": "spec-drift",
+  "version": "0.1.0",
+  "description": "Detect semantic drift between your AGENTS.md / CLAUDE.md and your actual codebase. No manual anchoring, no IDE.",
+  "type": "module",
+  "bin": {
+    "spec-drift": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "agents.md",
+    "claude.md",
+    "spec",
+    "drift",
+    "ai-agents",
+    "documentation",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0"
+  },
+  "optionalDependencies": {
+    "@huggingface/transformers": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
